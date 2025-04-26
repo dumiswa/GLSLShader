@@ -1,0 +1,8 @@
+# ninja log v6
+2	293	7627872078966421	CMakeFiles/Assignment_01.dir/ShaderUtil.cpp.obj	e760f43a336892f6
+4	447	7654704922214129	CMakeFiles/Assignment_01.dir/main.cpp.obj	b74a7e697c54a110
+447	2857	7654704926643278	Assignment_01.exe	909e6513ab25646d
+1	7	7627791424221236	clean	a912d6e803ee3202
+13	394	7673887880663675	CMakeFiles/Assignment_01.dir/ShaderUtil.cpp.obj	f1e34294a8ed3706
+6	496	7673887880583580	CMakeFiles/Assignment_01.dir/main.cpp.obj	beaf291258e80f69
+496	3474	7673887885480396	Assignment_01.exe	ddc9763412f59b8d

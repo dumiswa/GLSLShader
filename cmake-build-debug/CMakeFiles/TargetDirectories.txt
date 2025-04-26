@@ -1,0 +1,3 @@
+C:/Stuff/UNI/Projects/Assignment_01/GLSLShader/cmake-build-debug/CMakeFiles/Assignment_01.dir
+C:/Stuff/UNI/Projects/Assignment_01/GLSLShader/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Stuff/UNI/Projects/Assignment_01/GLSLShader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
